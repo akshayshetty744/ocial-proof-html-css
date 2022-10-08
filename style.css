@@ -1,0 +1,132 @@
+/* @media only screen and (max-width: 1440px){ */
+ 
+    *{
+        font-family: 'League Spartan', sans-serif;
+        
+
+    }
+    body{
+        padding:40px;
+    }
+    
+    .img{
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+    }
+    .container{
+        display:flex;
+    }
+    .primary{
+       color: rgb(81,33,80);
+       font-size:20px;
+       word-wrap: break-word;
+       width: 40%;
+        font-weight:30px;
+       
+        
+    }
+    .section{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+    .star1{
+        width: 270px;;
+        height: 30px;
+        border-radius: 3px;
+        background-color: rgba(193, 155, 192, 0.19);  
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: start flex;
+        padding-left:15px;
+        margin-left:-60px;
+        margin-bottom:10px;
+    }
+    .star2{
+        width: 270px;;
+        height: 30px;
+        border-radius: 3px;
+        background-color: rgba(193, 155, 192, 0.19);  
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: start flex;
+        padding-left:15px;
+        margin-left:-30px;
+        margin-bottom:10px;
+    }
+    .star3{
+        width: 270px;;
+        height: 30px;
+        border-radius: 3px;
+        background-color: rgba(193, 155, 192, 0.19);  
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: start flex;
+        padding-left:15px;
+    }
+    
+    .img1{
+        width: 10px;
+        height: 10px;
+        margin-left: 10px;
+    }
+    .rateing1{
+        color: rgb(81,33,80);
+       font-size:13px;
+       font-weight: bolder;
+       padding-left:9px;
+    }
+
+    /* cards */
+    .card{
+        display: flex;
+        flex-direction: row;
+        /* padding-left: 0px ; */
+        /* padding:40px; */
+        padding-top: 30px;
+    }
+    .card1{
+        width: 230px;
+        height : 140px;
+        background-color:rgb(81,33,80);
+        border-radius:6px;
+        padding:40px;
+        
+        
+    }
+    .card22{
+        width: 230px;
+        height : 140px;
+        background-color:rgb(81,33,80);
+        border-radius:6px;
+        padding:40px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .card33{
+        width: 230px;
+        height : 140px;
+        background-color:rgb(81,33,80);
+        border-radius:6px;
+        padding:40px;
+        margin-top: 20px;
+        margin-left: 10px;
+        
+    }
+    .colton{
+        width:35px;
+        height:35px;
+        border-radius:200px;
+    }
+    .name{
+        display:flex;
+    }
+    .data{
+        padding:4px 20px 20px 20px;
+    }
+/* } */
